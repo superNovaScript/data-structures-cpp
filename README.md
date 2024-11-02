@@ -47,4 +47,4 @@ Make sure you have the following installed:
 You can clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/yourusername/data-structures-cpp.git
+git clone https://github.com/superNovaScript/data-structures-cpp.git
